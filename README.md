@@ -1,1 +1,1 @@
-# BioNeMo-Notebooks
+# bionemo-utilities
